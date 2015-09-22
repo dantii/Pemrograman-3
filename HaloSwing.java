@@ -20,7 +20,6 @@ public class HaloSwing{
 	pnl.add(lbl);
 	fr.add(pnl);
 	JOptionPane.showMessageDialog(null, "Halo Dialog");
-	
 	fr.setVisible(true);
   }
 }
